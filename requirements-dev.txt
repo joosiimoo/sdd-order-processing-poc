@@ -1,0 +1,6 @@
+# Test dependencies for Order Processing POC
+# Install with: pip install -r requirements-dev.txt
+
+pytest>=7.0.0
+httpx>=0.24.0
+fastapi>=0.100.0
